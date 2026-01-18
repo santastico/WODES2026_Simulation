@@ -56,14 +56,4 @@ Upon execution, the script generates:
 
 > **Note:** These results correspond directly to **Section V (Example)** and the **Robustness Analysis** figures presented in the article.
 
-## 📝 Citation
 
-If you use this code or methodology in your research, please cite our paper:
-
-```bibtex
-@article{Pereira2026GlobalJIT,
-  title={Global Just-in-Time Control Synthesis for Urban Traffic Networks: An Approach Based on Tropical Algebra},
-  author={Pereira, Gabriel S. and Maia, C. A.},
-  journal={Proceedings of the IEEE/Conference Name},
-  year={2026}
-}
